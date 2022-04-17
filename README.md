@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yug-gujarati&label=Profile%20views&color=0e75b6&style=flat" alt="yug-gujarati" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yug gujarati" target="blank"><img src="https://img.shields.io/twitter/follow/yug gujarati?logo=twitter&style=for-the-badge" alt="yug gujarati" /></a> </p>
+
 
 - 🌱 I’m currently learning **Flutter UI , Advance java**
 
