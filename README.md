@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter UI , Advance java**
 
-- 💬 Ask me about **Flutter , java**
+- 💬 Ask me about **Flutter , Java**
 
 - 📫 How to reach me **yuj192001@gmail.com**
 
