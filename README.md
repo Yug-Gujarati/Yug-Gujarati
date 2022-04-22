@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/pratyaksa/pratyaksa1702/pratyaksa170200044/72923803-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%84%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-%E3%83%90%E3%83%8A%E3%83%BC-%E3%83%95%E3%83%A9%E3%83%83%E3%83%88-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88.jpg)
+![MasterHead](https://img.freepik.com/free-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=1060)
 <h1 align="center">Hi 👋, I'm Yug Gujarati</h1>
 <h3 align="center">A passionate flutter and java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
