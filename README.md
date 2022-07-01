@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter UI , Advance java**
+- 🌱 I’m currently learning **Flutter UI , java**
 
 - 💬 Ask me about **Flutter , Java**
 
