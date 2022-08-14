@@ -1,4 +1,4 @@
-//![MasterHead](https://img.freepik.com/free-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=1060)
+<!--![MasterHead](https://img.freepik.com/free-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=1060)-->
 <h1 align="center">Hi 👋, I'm Yug Gujarati</h1>
 <h3 align="center">A passionate flutter and java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
