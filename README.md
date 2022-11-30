@@ -28,6 +28,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" alt="Firebase" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvXcJmHtGCqFL7Jihb2EMx1f8aTajG5f5wlH1dk0kNf9Tj5VHSV5BJKQONGih6zO0Ea6M&usqp=CAU" alt="Git" width="50" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
