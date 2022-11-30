@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter , java**
+- 🌱 I’m currently learning **Flutter , java , Machine Learning**
 
 - 💬 Ask me about **Flutter , Java**
 
@@ -29,6 +29,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> </a> </p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://git-scm.com/images/logo@2x.png" alt="HTML" width="40" height="40"/> </a> </p>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToC_fS1xO15THYT8LnKFDePCNjq2bSqaRh_t9xJJ7WezFyE_Ug9BNCllpVYl8f77xTKYk&usqp=CAU" alt="HTML" width="40" height="40"/> </a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yug-gujarati&show_icons=true&locale=en&layout=compact" alt="yug-gujarati" /></p>
