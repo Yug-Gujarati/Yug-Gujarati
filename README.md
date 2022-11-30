@@ -27,9 +27,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubsercontent.com/devicons/devicon/master/icons/HTML/Html-original.svg" alt="HTML" width="40" height="40"/> </a> </p>
+<img src="http://www.w3.org/html/logo/badge/html5-badge-v-connectivity-css3-device-graphics-multimedia-performance-semantics-storage.png" alt="HTML" width="40" height="40"/> </a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yug-gujarati&show_icons=true&locale=en&layout=compact" alt="yug-gujarati" /></p>
