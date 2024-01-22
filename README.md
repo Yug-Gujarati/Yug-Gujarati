@@ -29,9 +29,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667](https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png)" alt="Firebase" width="50" height="50"/> </a>
+<img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" width="45" height="45"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" width="50" height="50"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50" height="50"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> </a> </p>
 
